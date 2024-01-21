@@ -2,6 +2,9 @@
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![mobile](https://github.com/miteshp98/order-summary-component-main/assets/145320555/3f88a2c8-ccbf-4182-816e-2fe801acdd78)
+
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,7 +31,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/order-summary-component-main/assets/145320555/ab46b7be-03b3-4058-a4ba-17e30f2abdd9)
+
+![csscode](https://github.com/miteshp98/order-summary-component-main/assets/145320555/31fddbc4-18b6-4d33-9eb4-04210d15a5b6)
+
 
 
 
@@ -36,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/miteshp98/order-summary-component-main)
+- Live Site URL: [live site URL](https://miteshp98.github.io/order-summary-component-main/)
 
 ## My process
 
